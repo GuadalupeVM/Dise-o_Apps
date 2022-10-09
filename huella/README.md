@@ -1,1 +1,1 @@
-Apliccaion con login de Huella y con un navegador DRAWER
+Aplicación con login de Huella y con un navegador DRAWER
